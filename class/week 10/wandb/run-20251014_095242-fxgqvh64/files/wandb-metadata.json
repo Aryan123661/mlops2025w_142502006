@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.8.0-85-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-10-14T04:22:42.509646Z",
+  "program": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePath": "class/week 10/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePathLocal": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "git": {
+    "remote": "https://github.com/Aryan123661/mlops2025w_142502006.git",
+    "commit": "3d5e44955ac42020a9bb54faf8f5b73fb266d196"
+  },
+  "email": "142502006@smail.iitpkd.ac.in",
+  "root": "/media/aryan/Storage/mlops2025w_142502006/class/week 10",
+  "host": "aryan",
+  "executable": "/usr/bin/python3",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "102611623936",
+      "used": "36395663360"
+    }
+  },
+  "memory": {
+    "total": "14506876928"
+  },
+  "writerId": "1qkfaxkd6yc182iymage909pyjg25kcu"
+}
