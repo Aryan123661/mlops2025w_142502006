@@ -1,0 +1,12 @@
+{"time":"2025-10-28T10:16:12.250219423+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-28T10:16:13.119299724+05:30","level":"INFO","msg":"stream: created new stream","id":"mf608od3"}
+{"time":"2025-10-28T10:16:13.119408929+05:30","level":"INFO","msg":"handler: started","stream_id":"mf608od3"}
+{"time":"2025-10-28T10:16:13.120299714+05:30","level":"INFO","msg":"stream: started","id":"mf608od3"}
+{"time":"2025-10-28T10:16:13.120481295+05:30","level":"INFO","msg":"writer: started","stream_id":"mf608od3"}
+{"time":"2025-10-28T10:16:13.120605418+05:30","level":"INFO","msg":"sender: started","stream_id":"mf608od3"}
+{"time":"2025-10-28T10:16:15.910018236+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":2.362433406},{"desc":"uploading media/images/confusion_matrix_4_4fbe72a2eafc2c7f2873.png","runtime_seconds":1.429735937,"progress":"16.0KB/16.0KB"},{"desc":"uploading media/images/confusion_matrix_5_4fbe72a2eafc2c7f2873.png","runtime_seconds":1.429364109,"progress":"16.0KB/16.0KB"}],"total_operations":3}}
+{"time":"2025-10-28T10:16:17.8388762+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-28T10:16:18.542831764+05:30","level":"INFO","msg":"stream: closing","id":"mf608od3"}
+{"time":"2025-10-28T10:16:18.542950037+05:30","level":"INFO","msg":"handler: closed","stream_id":"mf608od3"}
+{"time":"2025-10-28T10:16:18.543177073+05:30","level":"INFO","msg":"sender: closed","stream_id":"mf608od3"}
+{"time":"2025-10-28T10:16:18.54321229+05:30","level":"INFO","msg":"stream: closed","id":"mf608od3"}

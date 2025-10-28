@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            6tot4ly452tg46ztp8whjofta3vnw3zb:
+                codePath: class/class 7/mlops_wandb_monitoring_lab.ipynb
+                codePathLocal: mlops_wandb_monitoring_lab.ipynb
+                cpu_count: 8
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "102611623936"
+                        used: "39114870784"
+                email: 142502006@smail.iitpkd.ac.in
+                executable: /usr/bin/python3
+                git:
+                    commit: 2908f04755eff6955cd6174733d2d2813f026c0d
+                    remote: git@github.com:Aryan123661/mlops2025w_142502006.git
+                host: aryan
+                memory:
+                    total: "14506872832"
+                os: Linux-6.8.0-85-generic-x86_64-with-glibc2.35
+                program: mlops_wandb_monitoring_lab.ipynb
+                python: CPython 3.10.12
+                root: /media/aryan/Storage/mlops2025w_142502006/class/class 7
+                startedAt: "2025-10-28T04:42:56.612569Z"
+                writerId: 6tot4ly452tg46ztp8whjofta3vnw3zb
+        m: []
+        python_version: 3.10.12
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+            "4": 3.10.12
+            "5": 0.22.2
+            "8":
+                - 1
+            "10":
+                - 20
+            "12": 0.22.2
+            "13": linux-x86_64
+n_estimators:
+    value: 50
+random_state:
+    value: 99

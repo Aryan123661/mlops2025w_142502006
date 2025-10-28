@@ -23,3 +23,16 @@ config: {'_wandb': {}}
 2025-10-28 10:00:15,955 INFO    MainThread:4957 [wandb_init.py:init():1076] run started, returning control to user process
 2025-10-28 10:00:15,955 INFO    MainThread:4957 [wandb_run.py:_config_callback():1392] config_cb None None {'n_estimators': 50, 'random_state': 42}
 2025-10-28 10:00:16,875 INFO    MainThread:4957 [wandb_init.py:_post_run_cell_hook():594] [no run ID] resuming backend
+2025-10-28 10:07:26,334 INFO    MainThread:4957 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-10-28 10:07:26,335 INFO    MainThread:4957 [wandb_init.py:_pre_run_cell_hook():583] [no run ID] pausing backend
+2025-10-28 10:07:26,338 INFO    MainThread:4957 [wandb_init.py:_post_run_cell_hook():594] [no run ID] resuming backend
+2025-10-28 10:07:32,443 INFO    MainThread:4957 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-10-28 10:07:32,444 INFO    MainThread:4957 [wandb_init.py:_pre_run_cell_hook():583] [no run ID] pausing backend
+2025-10-28 10:07:32,464 INFO    MainThread:4957 [wandb_run.py:_finish():2275] finishing run ir2023/mlops-performance-monitoring/8j4e5tr6
+2025-10-28 10:07:32,464 INFO    MainThread:4957 [jupyter.py:save_history():480] not saving jupyter history
+2025-10-28 10:07:32,465 INFO    MainThread:4957 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-10-28 10:07:32,465 INFO    MainThread:4957 [wandb_init.py:_jupyter_teardown():609] cleaning up jupyter logic
+2025-10-28 10:07:32,465 INFO    MainThread:4957 [wandb_run.py:_atexit_cleanup():2474] got exitcode: 0
+2025-10-28 10:07:32,465 INFO    MainThread:4957 [wandb_run.py:_restore():2456] restore
+2025-10-28 10:07:32,466 INFO    MainThread:4957 [wandb_run.py:_restore():2462] restore done
+2025-10-28 10:07:34,565 INFO    MainThread:4957 [wandb_run.py:_footer_sync_info():3872] logging synced files
