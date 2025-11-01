@@ -1,0 +1,13 @@
+[project]
+name = "assignment3-q3"
+version = "0.1.0"
+description = "Assignment 3 - Q3: ResNet inference + grid-search demo"
+requires-python = ">=3.10"   # <-- add this line to remove the warning
+
+dependencies = [
+  "torch>=2.2.0",
+  "torchvision>=0.16.0",
+  "tomli>=2.0.0",
+  "pillow>=9.0.0",
+  "tqdm>=4.0.0"
+]
